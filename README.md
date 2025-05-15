@@ -1,4 +1,4 @@
-# airbnb-clone-project
+airbnb-clone-project
 
 
 Project Overview
@@ -144,6 +144,42 @@ Scrum Master:
     Contribution to Success: Optimizes the development process, improves team collaboration, and helps the team deliver value efficiently and effectively.
 
 
+UI Component Patterns
+
+This section outlines the reusable UI components we plan to create for the Airbnb clone project. These patterns will ensure consistency and efficiency in building the user interface.
+
+Navbar:
+    Description: The top navigation bar present across most pages of the application. It will provide key navigation links and potentially search functionality.
+    Key Elements:
+        * Airbnb logo.
+        * Search input field (potentially with location, dates, and guests).
+        * Navigation links (e.g., "Stays," "Experiences," "Online Experiences").
+        * User profile/account section (login/signup, user menu).
+        * Potentially a "Become a Host" link/button.
+    Purpose: To allow users to easily navigate between different sections of the platform and initiate searches.
+
+Property Card:
+    Description: A reusable component that displays a brief overview of a single property listing. These cards will be used on the Property Listing View page.
+    Key Elements:
+        * Main property image.
+        * Heart icon (for saving/favoriting).
+        * Rating and number of reviews.
+        * Property title/description.
+        * Price per night.
+        * Basic amenities (e.g., number of guests, bedrooms, bathrooms).
+        * Location information.
+    Purpose: To provide users with a quick snapshot of available properties, enabling them to scan and select listings of interest.
+
+Footer:
+    Description: The bottom section of the page, typically containing copyright information, links to legal pages, language/currency selection, and potentially social media links.
+    Key Elements:
+        * Copyright information.
+        * Links to "Terms," "Privacy," "Site Map," etc.
+        * Language and currency selection dropdowns.
+        * Airbnb branding elements.
+        * Potentially social media icons.
+    Purpose: To provide users with important supplementary information and navigation to legal and informational pages.
+    
 Getting Started (Future Instructions)
 
 
