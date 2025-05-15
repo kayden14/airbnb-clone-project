@@ -83,6 +83,20 @@ Ensuring Mobile Accessibility: With a significant portion of online traffic orig
 Gaining a Competitive Edge: In a crowded marketplace, a superior user experience can be a key differentiator, attracting users who value ease of use and efficiency over less intuitive platforms.
 By prioritizing user-centric design principles throughout the development of this Airbnb clone, we aim to create a platform that is not only functional but also a pleasure to use, ultimately leading to a successful and engaging experience for our users.
 
+Color Styles
+
+Primary:`#FF5A5F`
+Secondary:`#008489`
+Background: `#FFFFFF`
+Text: `#222222`
+Secondary Text: `#717171`
+
+Typography
+
+Primary Font:Circular, Medium (500), `16px`
+Headings: Circular, Bold (700), `24px` - `32px` (responsive sizing)
+Secondary Text:Circular, Book (400), `14px`
+
 Getting Started (Future Instructions)
 
 
